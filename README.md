@@ -13,7 +13,7 @@ To achieve a minimum level of storage resiliency, at least three storage nodes a
 
 <img width="766" height="212" alt="nodes" src="https://github.com/user-attachments/assets/0684b719-a6ec-4b55-bd52-1cad0ed85c09" />
 
-# Learnings summary
+# Learnings summary
 
 Investing time and some money in setting up a minimalist Kubernetes cluster on 4 Linux hosts was worth it. The applications I run at home have gained resilience, and I now spend less time managing them. In addition, I can now host more applications exposed to the internet at home, thanks to the reverse proxy running in the Kubernetes cluster.
 
