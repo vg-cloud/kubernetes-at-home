@@ -48,11 +48,11 @@ Both NextCloud and GitLab are accessible from anywhere, thanks to the ‘cert-ma
 
 <img width="711" height="486" alt="my_gitlab" src="https://github.com/user-attachments/assets/c768539f-93ec-42b8-9725-aa4b09acaebf" />
 
-## Custom Jump Server
+### Custom Jump Server
 
 I have also built a custom jump server. It is based on ‘ssh’ on the server side and ‘autossh’ on the client side. I use it to remotely manage several Linux machines belonging to my family members.
 
-# Storage
+# Storage
 
 I chose Rook Ceph, although I first tried Longhorn. Rook Ceph is rock-solid and reliable. I already tried replacing an SSD drive on one of the three worker nodes and was surprised by how smoothly the data recovery process went.
 
