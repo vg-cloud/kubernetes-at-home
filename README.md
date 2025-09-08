@@ -35,7 +35,7 @@ Cilium CNI plugin, Rook Ceph, Redis, cert-manager, MetalLB, CloudNativePG, Nginx
 
 ## Applicatons
 
-### NextCloud
+### NextCloud
 
 I have been using NextCloud for more than 8 years now. Synchronization clients are available for all platforms and are extremely efficient. To run it efficiently on Kubernetes, S3-compatible storage, external Redis, and PostgreSQL are essential.
 
