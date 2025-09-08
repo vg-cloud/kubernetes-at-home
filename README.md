@@ -27,7 +27,7 @@ Because I chose to proceed with a single Control Plane node, I immediately teste
 
 I would like to see if I can move one of the three worker nodes to my friend’s house and make it accessible via a site-to-site VPN from my home network. Even though we both have fiber internet, I wonder if the network latency will be low enough in this case. It would be equivalent to having one of the worker nodes in another “availability zone,” using public cloud terminology.
 
-# List of installed components and applications
+# List of installed components and applications
 
 ## Core components
 
